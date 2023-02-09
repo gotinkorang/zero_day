@@ -1,1 +1,0 @@
-ssh c3bf52043e0d@c3bf52043e0d.b5892663.alx-cod.online
